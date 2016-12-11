@@ -1,0 +1,99 @@
+Training in progress
+Inside training epoch: 50
+Inside training epoch: 100
+Inside training epoch: 150
+Inside training epoch: 200
+Inside training epoch: 250
+Inside training epoch: 300
+Inside training epoch: 350
+Inside training epoch: 400
+Inside training epoch: 450
+Training complete
+
+Prediction of test images: 
+
+gestures/A/A_down_1.pgm , predicted down
+gestures/A/A_down_2.pgm , predicted down
+gestures/A/A_hold_1.pgm , predicted down
+gestures/A/A_hold_10.pgm , predicted down
+gestures/A/A_stop_1.pgm , predicted down
+gestures/A/A_stop_4.pgm , predicted down
+gestures/A/A_up_1.pgm , predicted down
+gestures/A/A_up_10.pgm , predicted down
+gestures/B/B_down_1.pgm , predicted 'not down'
+gestures/B/B_down_2.pgm , predicted 'not down'
+gestures/B/B_hold_1.pgm , predicted 'not down'
+gestures/B/B_hold_2.pgm , predicted 'not down'
+gestures/B/B_stop_1.pgm , predicted 'not down'
+gestures/B/B_stop_2.pgm , predicted 'not down'
+gestures/B/B_up_1.pgm , predicted 'not down'
+gestures/B/B_up_4.pgm , predicted 'not down'
+gestures/C/C_down_1.pgm , predicted down
+gestures/C/C_down_2.pgm , predicted down
+gestures/C/C_hold_1.pgm , predicted 'not down'
+gestures/C/C_hold_2.pgm , predicted 'not down'
+gestures/C/C_stop_2.pgm , predicted down
+gestures/C/C_stop_3.pgm , predicted down
+gestures/C/C_up_1.pgm , predicted down
+gestures/D/D_down_1.pgm , predicted 'not down'
+gestures/D/D_down_2.pgm , predicted 'not down'
+gestures/D/D_hold_1.pgm , predicted 'not down'
+gestures/D/D_hold_2.pgm , predicted 'not down'
+gestures/D/D_hold_6.pgm , predicted 'not down'
+gestures/D/D_stop_1.pgm , predicted 'not down'
+gestures/D/D_stop_2.pgm , predicted 'not down'
+gestures/D/D_up_1.pgm , predicted 'not down'
+gestures/D/D_up_3.pgm , predicted 'not down'
+gestures/E/E_down_1.pgm , predicted down
+gestures/E/E_hold_1.pgm , predicted down
+gestures/E/E_hold_5.pgm , predicted down
+gestures/E/E_stop_1.pgm , predicted down
+gestures/E/E_stop_2.pgm , predicted down
+gestures/E/E_up_1.pgm , predicted down
+gestures/E/E_up_2.pgm , predicted down
+gestures/F/F_down_1.pgm , predicted down
+gestures/F/F_down_4.pgm , predicted down
+gestures/F/F_hold_1.pgm , predicted down
+gestures/F/F_hold_2.pgm , predicted down
+gestures/F/F_stop_2.pgm , predicted down
+gestures/F/F_stop_5.pgm , predicted down
+gestures/G/G_down_2.pgm , predicted down
+gestures/G/G_down_3.pgm , predicted down
+gestures/G/G_hold_4.pgm , predicted 'not down'
+gestures/G/G_stop_2.pgm , predicted down
+gestures/G/G_stop_5.pgm , predicted 'not down'
+gestures/G/G_up_2.pgm , predicted 'not down'
+gestures/G/G_up_5.pgm , predicted 'not down'
+gestures/H/H_down_2.pgm , predicted 'not down'
+gestures/H/H_hold_10.pgm , predicted 'not down'
+gestures/H/H_hold_2.pgm , predicted 'not down'
+gestures/H/H_hold_5.pgm , predicted 'not down'
+gestures/H/H_stop_5.pgm , predicted 'not down'
+gestures/H/H_stop_6.pgm , predicted 'not down'
+gestures/H/H_up_5.pgm , predicted 'not down'
+gestures/I/I_hold_2.pgm , predicted 'not down'
+gestures/I/I_hold_5.pgm , predicted 'not down'
+gestures/I/I_down_3.pgm , predicted 'not down'
+gestures/I/I_stop_5.pgm , predicted 'not down'
+gestures/I/I_stop_6.pgm , predicted 'not down'
+gestures/I/I_up_2.pgm , predicted 'not down'
+gestures/I/I_up_3.pgm , predicted 'not down'
+gestures/J/J_down_5.pgm , predicted 'not down'
+gestures/J/J_down_6.pgm , predicted 'not down'
+gestures/J/J_hold_2.pgm , predicted 'not down'
+gestures/J/J_hold_3.pgm , predicted 'not down'
+gestures/J/J_stop_7.pgm , predicted 'not down'
+gestures/J/J_stop_8.pgm , predicted 'not down'
+gestures/J/J_up_1.pgm , predicted 'not down'
+gestures/J/J_up_2.pgm , predicted 'not down'
+gestures/K/K_down_2.pgm , predicted 'not down'
+gestures/K/K_down_3.pgm , predicted down
+gestures/K/K_hold_1.pgm , predicted 'not down'
+gestures/K/K_hold_2.pgm , predicted 'not down'
+gestures/K/K_hold_3.pgm , predicted 'not down'
+gestures/K/K_stop_1.pgm , predicted 'not down'
+gestures/K/K_stop_2.pgm , predicted 'not down'
+gestures/K/K_stop_1.pgm , predicted 'not down'
+gestures/K/K_stop_2.pgm , predicted 'not down'
+
+Accuracy of classifying the gestures in images: 65.1 %
