@@ -1,0 +1,1 @@
+# Reduction-of-training-inputs-to-a-NN
